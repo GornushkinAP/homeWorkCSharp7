@@ -3,44 +3,40 @@
 // 0,5 7 -2 -0,2
 // 1 -3,3 8 -9,9
 // 8 7,8 -7,1 9
-
-void FillArray(double[,] array2mer)
-{
-    for (double i = 0; i < array2mer.GetLength(0); i++)
-{
-    for (double j = 0; j < array2mer.GetLength(1); j++)
-    {
-        array2mer[i, j] = new Random().NextDouble(10, 10);
-    }
-}
-}
-
-void PrintArray(double[,] array2mer)
-{
-    for (double i = 0; i < array2mer.GetLength(0); i++)
-    {
-        for (double j = 0; j < array2mer.GetLength(1); j++)
-        {
-            Console.Write($"{array2mer[i, j]} ");
-        }
-        Console.WriteLine();
-    }
-}
-
+Console.WriteLine("Доброго дня!");
 Console.Write("Введите количество строк: ");
-double rows = Convert.ToDouble(Console.ReadLine());
+int rows;
+while (!int.TryParse(Console.ReadLine(), out rows))
+{
+    Console.WriteLine("Ошибка ввода. Введите корректное количество строк: ");
+}
 
 Console.Write("Введите количество столбцов: ");
-double cols = Convert.ToDouble(Console.ReadLine());
-
-double[,] matrix = new double[rows, cols];
-for (double rows = 0; rows < matrix.GetLength(0); rows++)
+int cols;
+while (!int.TryParse(Console.ReadLine(), out cols))
 {
-    for (double cols = 0; cols < matrix.GetLength(1); cols++)
+    Console.WriteLine("Ошибка ввода. Введите корректное количество столбцов: ");
+}
+
+Random random = new Random();
+double[,] array = new double[rows, cols];
+
+for (int i = 0; i < rows; i++)
+{
+    for (int j = 0; j < cols; j++)
     {
-        matrix[rows, cols] = new Random().NextDouble(rows, cols);
+        array[i, j] = random.NextDouble() * 10;
+    }
+}
+
+Console.WriteLine("Наш Массив: ");
+for (int i = 0; i < rows; i++)
+{
+    for (int j = 0; j < cols; j++)
+    {
+        Console.Write(array[i, j] + " ");
     }
     Console.WriteLine();
-    Console.Write(matrix);
+    Console.WriteLine("Досвидания.");
 }
 
