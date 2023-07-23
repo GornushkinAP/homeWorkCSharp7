@@ -1,0 +1,15 @@
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#7/Task47/bin/Debug/net7.0/Task47
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#7/Task47/bin/Debug/net7.0/Task47.deps.json
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#7/Task47/bin/Debug/net7.0/Task47.runtimeconfig.json
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#7/Task47/bin/Debug/net7.0/Task47.dll
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#7/Task47/bin/Debug/net7.0/Task47.pdb
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#7/Task47/obj/Debug/net7.0/Task47.csproj.AssemblyReference.cache
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#7/Task47/obj/Debug/net7.0/Task47.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#7/Task47/obj/Debug/net7.0/Task47.AssemblyInfoInputs.cache
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#7/Task47/obj/Debug/net7.0/Task47.AssemblyInfo.cs
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#7/Task47/obj/Debug/net7.0/Task47.csproj.CoreCompileInputs.cache
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#7/Task47/obj/Debug/net7.0/Task47.dll
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#7/Task47/obj/Debug/net7.0/refint/Task47.dll
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#7/Task47/obj/Debug/net7.0/Task47.pdb
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#7/Task47/obj/Debug/net7.0/Task47.genruntimeconfig.cache
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#7/Task47/obj/Debug/net7.0/ref/Task47.dll
